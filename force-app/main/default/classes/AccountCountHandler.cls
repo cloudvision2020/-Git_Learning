@@ -10,6 +10,7 @@ public class AccountCountHandler {
                    con.Department = 'Technical';
                    con.LastName = 'mahesh';
                    conList.add(con);
+
               } 
                    
                    for(Integer i = 0; i < acc.OpportunityCount__c; i++) { 
